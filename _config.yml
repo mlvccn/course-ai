@@ -1,9 +1,59 @@
-theme: jekyll-theme-cayman
 
-# Site
-title: Artificial Intelligence and Pattern Recognition
-subtitle: "李平@杭电"
-description: "Li Ping @ Hangzhou Dianzi University"
-author: 李平@杭电
-language: Chinese/English
-timezone: Asia/Shanghai
+
+
+# ============================================================
+# Site Settings
+# ============================================================
+title:  Artificial Intelligence and Pattern Recognition
+description: "人工智能与模式识别课程 @ Hangzhou Dianzi University"
+
+# Base URL and domain
+baseurl: ""                    # e.g., "/course-website" if in a subpath
+url: "https://mlvccn.github.io"  # your GitHub Pages URL
+
+# ============================================================
+# Theme
+# ============================================================
+remote_theme: pages-themes/cayman@v0.2.0
+# theme: jekyll-theme-cayman
+
+# ============================================================
+# Plugins (GitHub Pages whitelist only)
+# ============================================================
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-relative-links
+
+# ============================================================
+# Navigation (rendered in Cayman header/footer)
+# ============================================================
+# Cayman puts links in the sidebar-like header area.
+# You can define additional links here.
+
+header_pages:
+  - index.md
+  - syllabus.md
+  - schedule.md
+  - assignments.md
+  - resources.md
+
+# ============================================================
+# GitHub Metadata (used by jekyll-github-metadata)
+# ============================================================
+repository: mlvccn/course-ai
+
+# ============================================================
+# Social / Author Info
+# ============================================================
+author:
+  name: Prof. Ping Li
+  email: lpcs@hdu.edu.cn
+
+# ============================================================
+# Build Settings
+# ============================================================
+markdown: kramdown
+highlighter: rouge
