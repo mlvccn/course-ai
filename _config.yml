@@ -17,8 +17,4 @@ author: Li Ping@HDU
   name: Prof. Ping Li
   email: lpcs@hdu.edu.cn
 
-# ============================================================
-# Build Settings
-# ============================================================
-markdown: kramdown
-highlighter: rouge
+
