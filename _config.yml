@@ -5,27 +5,13 @@
 # Site Settings
 # ============================================================
 title:  Artificial Intelligence and Pattern Recognition
-description: "人工智能与模式识别课程 @ Hangzhou Dianzi University"
-
-# Base URL and domain
-baseurl: ""                    # e.g., "/course-website" if in a subpath
-url: "https://mlvccn.github.io"  # your GitHub Pages URL
+description: "Li Ping @ Hangzhou Dianzi University"
 
 # ============================================================
 # Theme
 # ============================================================
 # remote_theme: pages-themes/cayman@v0.2.0
 theme: jekyll-theme-cayman
-
-# ============================================================
-# Plugins (GitHub Pages whitelist only)
-# ============================================================
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-relative-links
 
 # ============================================================
 # GitHub Metadata (used by jekyll-github-metadata)
@@ -35,7 +21,7 @@ repository: mlvccn/course-ai
 # ============================================================
 # Social / Author Info
 # ============================================================
-author:
+author: Li Ping@HDU
   name: Prof. Ping Li
   email: lpcs@hdu.edu.cn
 
