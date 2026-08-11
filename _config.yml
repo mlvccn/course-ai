@@ -14,8 +14,8 @@ url: "https://mlvccn.github.io"  # your GitHub Pages URL
 # ============================================================
 # Theme
 # ============================================================
-remote_theme: pages-themes/cayman@v0.2.0
-# theme: jekyll-theme-cayman
+# remote_theme: pages-themes/cayman@v0.2.0
+theme: jekyll-theme-cayman
 
 # ============================================================
 # Plugins (GitHub Pages whitelist only)
@@ -26,19 +26,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-relative-links
-
-# ============================================================
-# Navigation (rendered in Cayman header/footer)
-# ============================================================
-# Cayman puts links in the sidebar-like header area.
-# You can define additional links here.
-
-header_pages:
-  - index.md
-  - syllabus.md
-  - schedule.md
-  - assignments.md
-  - resources.md
 
 # ============================================================
 # GitHub Metadata (used by jekyll-github-metadata)
