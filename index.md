@@ -25,17 +25,17 @@
 |  1   | [课程简介](人工智能与模式识别/Lec1%20绪论.pdf)               |  <font size="2">《机器学习》CH1-2 《模式识别》CH1</font>      |                                   |
 |  2   | [线性模型](人工智能与模式识别/Lec2%20线性模型-HW1.pdf)             |  <font size="2">《机器学习》CH3   《模式识别》CH4</font>      | [HW1-线性模型实现餐厅利润和房屋价格预测](实验作业/实验作业一.pdf)  [[data1](实验数据集/ex1-data1.txt)] [[data2](实验数据集/ex1-data2.txt)]|
 |  3   | [贝叶斯分类](人工智能与模式识别/Lec3%20贝叶斯分类-HW2.pdf)         |  <font size="2">《机器学习》CH7   《模式识别》CH2-3</font>    |  [HW2-基于贝叶斯分类器的性别分类](实验作业/实验作业二.pdf)  [[traindata](实验数据集/ex2-traindata.csv)] [[testdata](实验数据集/ex2-testdata.csv)]    |
-|  4   | [神经网络](人工智能与模式识别/Lec4%20神经网络-HW3.pdf)             |  <font size="1">《机器学习》CH5   《模式识别》CH5.4</font>    |  [HW3-基于ANN的MNIST图像分类](实验作业/实验作业三.pdf)  [[MNIST](https://github.com/cvdfoundation/mnist) ]      |
-|  5   | [支持向量机](人工智能与模式识别/Lec5%20支持向量机-HW4.pdf)         |  <font size="1">《机器学习》CH6   《模式识别》CH5.5</font>    |   [HW4-基于SVM的垃圾邮件分类](实验作业/实验作业四.pdf)  [[data](实验数据集/ex4-data.zip)]        |
-|  6   | [集成学习](人工智能与模式识别/Lec6%20集成学习.pdf)             |  <font size="1">《机器学习》CH8   《模式识别》CH6.2-6.4</font>|                                   |
-|  7   | [聚类及k近邻](人工智能与模式识别/Lec7%20聚类及k近邻.pdf)       |  <font size="1">《机器学习》CH9   《模式识别》CH6/CH9.4</font>|                                   |
-|  8   | [传统特征提取](人工智能与模式识别/Lec8%20传统特征提取.pdf)     |  <font size="1">《机器学习》CH10   《模式识别》CH8</font>     |                                   |
-|  9   | [深度特征学习](人工智能与模式识别/Lec9%20深度特征学习-HW5.pdf)      |  <font size="1">《Deep Learning》CH9                        |  [HW5-基于CNN的FashionMNIST图像分类](实验作业/实验作业五.pdf)  [[data](实验数据集/ex5-data.zip)]    |
-|  10  | [半监督学习](人工智能与模式识别/Lec10%20半监督学习.pdf)         |  <font size="1">《机器学习》CH13</font>                      |                                   |
-|  11  | [专题1-时空动作检测]         |  <font size="1">《视觉模式分析及实践》CH5</font>                      |                                   |
-|  12  | [专题2-视觉语义分割]      |  <font size="1">《视觉模式分析及实践》CH8</font>                     |                                   |
-|  13  | [专题3-视觉模型压缩]      |  <font size="1">《视觉模式分析及实践》CH9</font>                     |                                   |
-|  14  | [专题4-视觉对抗攻防]      |  <font size="1">《视觉模式分析及实践》CH10</font>                     |                                   |
+|  4   | [神经网络](人工智能与模式识别/Lec4%20神经网络-HW3.pdf)             |  <font size="2">《机器学习》CH5   《模式识别》CH5.4</font>    |  [HW3-基于ANN的MNIST图像分类](实验作业/实验作业三.pdf)  [[MNIST](https://github.com/cvdfoundation/mnist) ]      |
+|  5   | [支持向量机](人工智能与模式识别/Lec5%20支持向量机-HW4.pdf)         |  <font size="2">《机器学习》CH6   《模式识别》CH5.5</font>    |   [HW4-基于SVM的垃圾邮件分类](实验作业/实验作业四.pdf)  [[data](实验数据集/ex4-data.zip)]        |
+|  6   | [集成学习](人工智能与模式识别/Lec6%20集成学习.pdf)             |  <font size="2">《机器学习》CH8   《模式识别》CH6.2-6.4</font>|                                   |
+|  7   | [聚类及k近邻](人工智能与模式识别/Lec7%20聚类及k近邻.pdf)       |  <font size="2">《机器学习》CH9   《模式识别》CH6/CH9.4</font>|                                   |
+|  8   | [传统特征提取](人工智能与模式识别/Lec8%20传统特征提取.pdf)     |  <font size="2">《机器学习》CH10   《模式识别》CH8</font>     |                                   |
+|  9   | [深度特征学习](人工智能与模式识别/Lec9%20深度特征学习-HW5.pdf)      |  <font size="2">《Deep Learning》CH9                        |  [HW5-基于CNN的FashionMNIST图像分类](实验作业/实验作业五.pdf)  [[data](实验数据集/ex5-data.zip)]    |
+|  10  | [半监督学习](人工智能与模式识别/Lec10%20半监督学习.pdf)         |  <font size="2">《机器学习》CH13</font>                      |                                   |
+|  11  | [专题1-时空动作检测]         |  <font size="2">《视觉模式分析及实践》CH5</font>                      |                                   |
+|  12  | [专题2-视觉语义分割]      |  <font size="2">《视觉模式分析及实践》CH8</font>                     |                                   |
+|  13  | [专题3-视觉模型压缩]      |  <font size="2">《视觉模式分析及实践》CH9</font>                     |                                   |
+|  14  | [专题4-视觉对抗攻防]      |  <font size="2">《视觉模式分析及实践》CH10</font>                     |                                   |
 
  [数学基础](人工智能与模式识别/Lec0-数学基础.pdf)  
 
