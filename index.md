@@ -8,7 +8,7 @@
 - 课程代码：Z205015
 - 课程类别：专业学位课
 - 授课教师：李平 （lpcs@hdu.edu.cn）
-- 授课学期：2026-2027-1学期
+- 授课学期：秋冬学期
 - 授课班级：人工智能与模式识别03
 - 参考教材：
   - [《模式识别(第四版)》](https://www.tup.tsinghua.edu.cn/booksCenter/book_05931601.html). 张学工，汪小我. 清华大学出版社. 2021.
@@ -37,9 +37,9 @@
 
  [泛雅平台课程](https://mooc1.chaoxing.com/mooc-ans/course/portal/3abDsIwEVNtH-Vg_mEP08w==?edit=true) (含教学视频) 
 
- [实验报告模板](人工智能与模式识别/实验作业/实验报告模板.docx) 
+ [实验报告模板](实验作业/实验报告模板.docx) 
 
- [实验数据集](实验数据集/数据集.zip) (示例：ex1对应实验一, 实验三用[MNIST](https://github.com/cvdfoundation/mnist)) 
+ [实验数据集](实验数据集/) (示例：ex1对应实验一, 实验三用[MNIST](https://github.com/cvdfoundation/mnist)) 
 
 ## 推荐公开课
 
